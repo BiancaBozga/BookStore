@@ -279,7 +279,7 @@ if __name__ == '__main__':
 
     elapsed_time_ms1 = (end_time - start_time)
 
-    print(f"Timpul total scurs: {elapsed_time_ms1} nanosecunde")
+    print(f"Timpul toal scurs: {elapsed_time_ms1} nanosecunde")
 
     start_time = time.time_ns()
     gaseste_element_majoritar_CHATGPT(random_values)
