@@ -289,7 +289,7 @@ if __name__ == '__main__':
 
     elapsed_time_ms2 = (end_time - start_time)
 
-    print(f"Timpul totall scurs: {elapsed_time_ms2} nanosecunde")
+    print(f"Timpul total scurs: {elapsed_time_ms2} nanosecunde")
     #e mai eficienta a mea ;)
 
 
